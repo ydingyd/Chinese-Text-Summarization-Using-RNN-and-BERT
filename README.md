@@ -7,4 +7,4 @@ Team Member:
 * Jiyang Ge
 * Yupei Zhou
   
-Final presentation can be found here.
+Final presentation can be found [here](https://github.com/ydingyd/Chinese-Text-Summarization-Using-RNN-and-BERT/blob/main/Chinese%20Text%20Summarization.pdf).
